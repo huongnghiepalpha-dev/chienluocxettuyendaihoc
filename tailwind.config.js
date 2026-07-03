@@ -10,8 +10,6 @@ export default {
         sans: ['Inter', 'sans-serif'],
       },
     },
-   theme: {
-    extend: {},
   },
   plugins: [],
 }
